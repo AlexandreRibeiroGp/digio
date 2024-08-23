@@ -1,0 +1,42 @@
+{
+	"info": {
+		"_postman_id": "98609b1d-3f32-4fc1-b9bb-15452846c263",
+		"name": "Digio",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json",
+		"_exporter_id": "9054912"
+	},
+	"item": [
+		{
+			"name": "PesquisarComprasValor",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "PesquisarClientesFieis",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "PesquisarRecomendacao",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "PesquisarMaiorCompraAno",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
